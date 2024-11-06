@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-pip install ollama
-
-
-# In[3]:
-
-
 import streamlit as st
 import ollama
 import time
